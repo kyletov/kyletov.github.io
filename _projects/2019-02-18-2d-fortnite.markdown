@@ -1,0 +1,12 @@
+---
+layout: page
+title:  "2D Fortnite"
+date: 2019/02/18
+url: /projects/:title/
+---
+
+Description: Created a web-based shooting game.
+
+Technologies Used: HTML5, Canvas, React, Node Restful API, SQLite3.
+
+Purpose: To facilitate single player and multiplayer mode across 100 players.

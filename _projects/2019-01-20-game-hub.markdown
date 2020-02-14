@@ -1,0 +1,12 @@
+---
+layout: page
+title:  "Game Hub"
+date: 2019/01/20
+url: /projects/:title/
+---
+
+Description: Created a web-based game hub.
+
+Technologies Used: HTML5, PHP, PostgreSQL
+
+Purpose: To support and maintain multiple user and game data.
