@@ -5,8 +5,7 @@ date: 2019/01/20
 url: /projects/:title/
 ---
 
-Description: Created a web-based game hub.
+Description: Developed online Game Hub that allows users to play different games such as Sudoku and MN puzzle.
 
-Technologies Used: HTML5, PHP, PostgreSQL
+Technologies Used: Written with HTML5 and PHP with a PostgreSQL database to store game stats and user data.
 
-Purpose: To support and maintain multiple user and game data.

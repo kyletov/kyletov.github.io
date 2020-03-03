@@ -5,8 +5,7 @@ date: 2019/02/18
 url: /projects/:title/
 ---
 
-Description: Created a web-based shooting game.
+Description: Developed a multiplayer video game similar to Fortnite that supports up to 100 players.
 
-Technologies Used: HTML5, Canvas, React, Node Restful API, SQLite3.
-
-Purpose: To facilitate single player and multiplayer mode across 100 players.
+Technologies Used: Developed with React frontend and NodeJS API with SQLite3 database.
+Utilized Canvas rendering techniques to draw in-game objects and animations for smooth gameplay.

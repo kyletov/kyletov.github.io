@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "Spot Meet"
+date: 2018/03/29
+url: /projects/:title/
+---
+
+Description: Developed a web-based scheduling system to provide a platform for users to coordinate and schedule events they’re interested in created by other users.
+
+Technologies Used: Written using HTML5 and PHP with PostgreSQL to manage and maintain user and event data.
